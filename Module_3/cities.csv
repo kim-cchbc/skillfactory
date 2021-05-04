@@ -1,0 +1,264 @@
+Rank,City / Urban area,Country,Population,"Land area
+(in sqKm)","Density
+(people per sqKm)"
+1,New York Metro,USA,"17,800,000","8,683","2,05"
+2,Tokyo/Yokohama,Japan,"33,200,000","6,993","4,75"
+3,Chicago,USA,"8,308,000","5,498","1,5"
+4,Atlanta,USA,"3,500,000","5,083",700
+5,Philadelphia,USA,"5,149,000","4,661","1,1"
+6,Boston,USA,"4,032,000","4,497",900
+7,Los Angeles,USA,"11,789,000","4,32","2,75"
+8,Dallas/Fort Worth,USA,"4,146,000","3,644","1,15"
+9,Houston,USA,"3,823,000","3,355","1,15"
+10,Detroit,USA,"3,903,000","3,267","1,2"
+11,Washington,USA,"3,934,000","2,996","1,3"
+12,Miami,USA,"4,919,000","2,891","1,7"
+13,Nagoya,Japan,"9,000,000","2,875","3,15"
+14,Paris,France,"9,645,000","2,723","3,55"
+15,Essen/Düsseldorf,Germany,"7,350,000","2,642","2,8"
+16,Osaka/Kobe/Kyoto,Japan,"16,425,000","2,564","6,4"
+17,Seattle,USA,"2,712,000","2,47","1,1"
+18,Johannesburg/East Rand,South Africa,"6,000,000","2,396","2,5"
+19,Minneapolis/St. Paul,USA,"2,389,000","2,316","1,05"
+20,San Juan,Puerto Rico,"2,217,000","2,309",950
+21,Buenos Aires,Argentina,"11,200,000","2,266","4,95"
+22,Pittsburgh,USA,"1,753,000","2,208",800
+23,Moscow,Russia,"10,500,000","2,15","4,9"
+24,St. Louis,USA,"2,078,000","2,147",950
+25,Melbourne,Australia,"3,162,000","2,08","1,5"
+26,Tampa//St. Petersburg,USA,"2,062,000","2,078",1
+27,Mexico City,Mexico,"17,400,000","2,072","8,4"
+28,Phoenix/Mesa,USA,"2,907,000","2,069","1,4"
+29,San Diego,USA,"2,674,000","2,026","1,3"
+30,Sao Paulo,Brazil,"17,700,000","1,968",9
+31,Baltimore,USA,"2,076,000","1,768","1,15"
+32,Cincinnati,USA,"1,503,000","1,74",850
+33,Montreal.,Canada,"3,216,000","1,74","1,85"
+34,Sydney,Australia,"3,502,000","1,687","2,1"
+35,Cleveland,USA,"1,787,000","1,676","1,05"
+36,Toronto,Canada,"4,367,000","1,655","2,65"
+37,London,UK,"8,278,000","1,623","5,1"
+38,Kuala Lumpur,Malaysia,"4,400,000","1,606","2,75"
+39,Brisbane,Australia,"1,508,000","1,603",950
+40,Rio de Janeiro,Brazil,"10,800,000","1,58","6,85"
+41,Milan,Italy,"4,250,000","1,554","2,75"
+42,Kansas City,USA,"1,362,000","1,514",900
+43,Indianapolis,USA,"1,219,000","1,432",850
+44,Manila,Philippines,"14,750,000","1,399","10,55"
+45,San Francisco//Oakland,USA,"3,229,000","1,365","2,35"
+46,Virginia Beach,USA,"1,394,000","1,364",1
+47,Jakarta,Indonesia,"14,250,000","1,36","10,5"
+48,Providence,USA,"1,175,000","1,304",900
+49,Cairo,Egypt,"12,200,000","1,295","9,4"
+50,Delhi,India,"14,300,000","1,295","11,05"
+51,Denver,USA,"1,985,000","1,292","1,55"
+52,Milwaukee,USA,"1,309,000","1,261","1,05"
+53,Portland,USA,"1,583,000","1,228","1,3"
+54,Hartford,USA,852,"1,216",700
+55,Bridgeport//Stamford,USA,889,"1,205",750
+56,Marseille,France,"1,350,000","1,204","1,1"
+57,Orlando,USA,"1,157,000","1,174",1
+58,Istanbul,Turkey,"9,000,000","1,166","7,7"
+59,Riverside/San Bernardino,USA,"1,507,000","1,136","1,35"
+60,Richmond,USA,819,"1,131",700
+61,Charlotte,USA,759,"1,126",650
+62,Vancouver,Canada,"1,830,000","1,12","1,65"
+63,Nashville,USA,750,"1,116",650
+64,Riyadh,Saudi Arabia,"4,000,000","1,101","3,65"
+65,Jacksonville,USA,882,"1,063",850
+66,Bordeaux,France,754,"1,057",700
+67,San Antonio,USA,"1,328,000","1,056","1,25"
+68,Seoul/Incheon,South Korea,"17,500,000","1,049","16,7"
+69,Memphis,USA,972,"1,036",950
+70,Columbus,USA,"1,133,000","1,03","1,1"
+71,Birmingham,USA,664,"1,016",650
+72,Louisville,USA,864,"1,013",850
+73,Bangkok,Thailand,"6,500,000","1,01","6,45"
+74,Berlin,Germany,"3,675,000",984,"3,75"
+75,Frankfurt,Germany,"2,260,000",984,"2,3"
+76,Perth,Australia,"1,177,000",964,"1,2"
+77,Sacramento,USA,"1,393,000",956,"1,45"
+78,Lyon,France,"1,349,000",954,"1,4"
+79,Buffalo,USA,977,950,"1,05"
+80,Madrid,Spain,"4,900,000",945,"5,2"
+81,Lisbon,Portugal,"2,250,000",881,"2,55"
+82,Knoxville,USA,420,879,500
+83,Belo Horizonte,Brazil,"4,000,000",868,"4,6"
+84,Edmonton,Canada,782,850,900
+85,Rome,Italy,"2,500,000",842,"2,95"
+86,Dayton,USA,703,838,850
+87,Oklahoma City,USA,747,835,900
+88,Durban,South Africa,"2,900,000",829,"3,5"
+89,Hamburg,Germany,"1,925,000",829,"2,3"
+90,Raleigh,USA,542,828,650
+91,Austin,USA,902,824,"1,1"
+92,Cologne/Bonn,Germany,"1,960,000",816,"2,4"
+93,Copenhagen,Denmark,"1,525,000",816,"1,85"
+94,McAllen,USA,523,813,650
+95,Toulouse,France,761,808,950
+96,Barcelona,Spain,"3,900,000",803,"4,85"
+97,Springfield,USA,574,800,700
+98,Akron,USA,570,797,700
+99,Abu Dhabi,UAE,550,777,700
+100,Jeddah,Saudi Arabia,"2,750,000",777,"3,55"
+101,Rochester,USA,694,764,900
+102,Tucson,USA,720,755,950
+103,Chattanooga,USA,344,751,450
+104,Allentown/Bethlehem,USA,576,750,750
+105,Beijing,China,"8,614,000",748,"11,5"
+106,Shanghai,China,"10,000,000",746,"13,4"
+107,Barnstable Town,USA,244,741,350
+108,Las Vegas,USA,"1,314,000",741,"1,75"
+109,New Haven,USA,531,739,700
+110,Lagos,Nigeria,"13,400,000",738,"18,15"
+111,Albany,USA,559,736,750
+112,Adelaide,Australia,"1,002,000",729,"1,35"
+113,Baton Rouge,USA,479,727,650
+114,Nice,France,889,721,"1,25"
+115,Toulon,France,520,713,750
+116,Brussels,Belgium,"1,570,000",712,"2,2"
+117,Dubai,UAE,"1,900,000",712,"2,65"
+118,Harare,Zimbabwe,"1,750,000",712,"2,45"
+119,Budapest,Hungary,"1,800,000",702,"2,55"
+120,Calgary,Canada,879,702,"1,25"
+121,Sarasota//Bradenton,USA,559,700,800
+122,Columbia,USA,421,697,600
+123,Cape Town,South Africa,"2,700,000",686,"3,95"
+124,Poughkeepsie,USA,352,686,500
+125,Tehran,Iran,"7,250,000",686,"10,55"
+126,Athens,Greece,"3,685,000",684,"5,4"
+127,Tulsa,USA,558,677,800
+128,San Jose,USA,"1,538,000",674,"2,3"
+129,Arabia,Saudi,"1,525,000",673,"2,25"
+130,Pretoria,South Africa,"1,850,000",673,"2,75"
+131,Quebec,Canada,635,669,950
+132,Grand Rapids,USA,539,667,800
+133,Winston/Salem,USA,299,651,450
+134,Beirut,Lebanon,"1,800,000",648,"2,8"
+135,Curitiba,Brazil,"2,500,000",648,"3,85"
+136,Santiago,Chile,"5,425,000",648,"8,4"
+137,Worcester,USA,430,648,650
+138,Lahore,Pakistan,"5,100,000",622,"8,2"
+139,St Petersburg,Russia,"5,300,000",622,"8,55"
+140,Aguadilla,Puerto Rico,299,620,500
+141,Augusta,USA,336,600,550
+142,Birmingham,UK,"2,284,000",600,"3,8"
+143,Flint,USA,365,599,600
+144,Charleston,USA,423,598,700
+145,Salt Lake City,USA,888,598,1500
+146,Antwerp,Belgium,915,596,"1,55"
+147,Baghdad,Iraq,"5,500,000",596,"9,25"
+148,Guadalajara,Mexico,"3,500,000",596,"5,9"
+149,Lima,Peru,"7,000,000",596,"11,75"
+150,Youngstown,USA,417,591,700
+151,Greenville,USA,302,587,500
+152,Omaha,USA,627,586,"1,05"
+153,Ankara,Turkey,"3,100,000",583,"5,3"
+154,Brasilia,Brazil,"1,625,000",583,"2,8"
+155,Fortaleza,Brazil,"2,650,000",583,"4,55"
+156,Hyderabad,India,"5,300,000",583,"9,1"
+157,Khartoum,Sudan,"4,000,000",583,"6,85"
+158,Naples,Italy,"2,400,000",583,"4,1"
+159,Porto Alegre,Brazil,"2,800,000",583,"4,8"
+160,Albuquerque,USA,598,580,"1,05"
+161,Palm Bay,USA,393,569,700
+162,El Paso,USA,675,568,"1,2"
+163,Pensacola,USA,324,568,550
+164,Manchester,UK,"2,245,000",558,4
+165,Hickory,USA,188,546,350
+166,Mobile,USA,318,546,600
+167,Baku/Sumqayit,Azerbaijan,"2,100,000",544,"3,85"
+168,Fukuoka,Japan,"2,150,000",544,"3,95"
+169,Katowice,Poland,"2,200,000",544,"4,05"
+170,Kuwait,Kuwait,"1,600,000",544,"2,95"
+171,Harrisburg,USA,363,540,650
+172,Asheville,USA,222,536,400
+173,Bangalore,India,"5,400,000",534,"10,1"
+174,Little Rock,USA,360,532,700
+175,Auckland,New Zealand,"1,050,000",531,2
+176,Kolkata,India,"12,700,000",531,"23,9"
+177,Rotterdam,Netherlands,"1,325,000",531,"2,5"
+178,Tashkent,Uzbekistan,"2,200,000",531,"4,15"
+179,Toledo,USA,503,524,950
+180,Bogota,Colombia,"7,000,000",518,"13,5"
+181,Ho Chi Minh City,Vietnam,"4,900,000",518,"9,45"
+182,Karachi,Pakistan,"9,800,000",518,"18,9"
+183,Munich,Germany,"1,600,000",518,"3,1"
+184,Phnom Penh,Cambodia,"1,500,000",518,"2,9"
+185,Stockholm,Sweden,"1,400,000",518,"2,7"
+186,Lancaster,USA,324,517,650
+187,New Orleans,USA,"1,009,000",512,"1,95"
+188,Colorado Springs,USA,466,511,900
+189,Taichung,Taiwan,"2,000,000",510,"3,9"
+190,Avignon,France,254,508,500
+191,Valenciennes,France,357,507,700
+192,Nizhni Novgorod,Russia,"1,500,000",505,"2,95"
+193,Turin,Italy,"1,350,000",500,"2,7"
+194,Cape Coral,USA,330,497,650
+195,Campinas,Brazil,"1,750,000",492,"3,55"
+196,Ottawa/Hull,Canada,828,490,"1,7"
+197,Douai/Lens,France,519,489,"1,05"
+198,Mumbai,India,"14,350,000",484,"29,65"
+199,Goiania,Brazil,"1,475,000",479,"3,1"
+200,Helsinki,Finland,"1,000,000",479,"2,1"
+201,Monterey,Mexico,"3,200,000",479,"6,7"
+202,Quito,Ecuador,"1,500,000",479,"3,15"
+203,Singapore,Singapore,"4,000,000",479,"8,35"
+204,Vereeniging,South Africa,600,479,"1,25"
+205,Nantes,France,545,476,"1,15"
+206,Lille,France,"1,050,000",474,"2,2"
+207,Kinshasa,Congo,"5,000,000",469,"10,65"
+208,Ogden,USA,418,466,900
+209,Shenzhen,China,"8,000,000",466,"17,15"
+210,Warsaw,Poland,"2,000,000",466,"4,3"
+211,Syracuse,USA,402,465,850
+212,Wichita,USA,422,465,900
+213,Concord,USA,553,457,"1,2"
+214,Accra,Ghana,"1,500,000",453,"3,3"
+215,Shenyang,China,"4,200,000",453,"9,25"
+216,Tel Aviv,Israel,"2,300,000",453,"5,05"
+217,Tianjin,China,"4,750,000",453,"10,5"
+218,Vienna,Austria,"1,550,000",453,"3,4"
+219,Donetsk,Ukraine,"1,400,000",451,"3,1"
+220,Pau,France,181,450,400
+221,Winnipeg,Canada,627,446,"1,4"
+222,Port St Lucie,USA,271,438,600
+223,Fayetteville,USA,276,433,650
+224,Lumumbashi,Congo,"1,200,000",427,"2,8"
+225,Port Elizabeth,South Africa,900,427,"2,1"
+226,Tours,France,298,421,700
+227,Jackson,USA,293,417,700
+228,Chennai,India,"5,950,000",414,"14,35"
+229,Sapporo,Japan,"2,075,000",414,5
+230,Stuttgart,Germany,"1,250,000",414,3
+231,Scranton,USA,385,411,950
+232,Huntsville,USA,213,407,500
+233,Durham,USA,288,406,700
+234,South Bend,USA,276,404,700
+235,Aachen,Germany,585,401,"1,45"
+236,Shreveport,USA,275,401,700
+237,Honolulu,USA,718,399,"1,8"
+238,Bethune,France,259,390,650
+239,Bonita Springs / Naples,USA,221,389,550
+240,Dalian,China,"2,750,000",389,"7,1"
+241,Porto,Portugal,"1,035,000",389,"2,65"
+242,St. Catharines,Canada,300,389,750
+243,Gold Coast,Australia,422,383,"1,1"
+244,Recife,Brazil,"3,025,000",376,"8,05"
+245,Taipei,Taiwan,"5,700,000",376,"15,2"
+246,Canton,USA,267,372,700
+247,Spokane,USA,335,371,900
+248,Leeds/Bradford,UK,"1,499,000",370,"4,05"
+249,Glasgow,UK,"1,200,000",368,"3,25"
+250,Dublin,Ireland,"1,075,000",365,"2,95"
+,Edinburgh,,482.005,264,
+,Bratislava,,424.428,"367,6",
+,Prague,,"1,309,000",496,
+,Oslo,,634.293,454,
+,Amsterdam,,821.752,"219,3",
+,Oporto,,214.349,"41,42",
+,Krakow,,766.683,327,
+,Luxembourg,,114.303,"51,46",
+,Zurich,,402.762,"87,88",
+,Geneva,,198.979,"15,93",
+,Ljubljana,,279.631,"163,8",
