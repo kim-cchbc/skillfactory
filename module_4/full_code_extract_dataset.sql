@@ -45,16 +45,21 @@ WITH a AS -- general flights data
              GROUP BY sb.aircraft_code)
 
 	   SELECT gen.model,
-              gen.aircraft_code,
-              gen.total_seats,
-              b_s.bs bussines_seats,
-              coalesce(NULLIF(c_s.bs, 0), 0) comfort_seats,
-              e_s.bs economy_seats,
-              gen.range
-         FROM gen
-              JOIN b_seats b_s ON b_s.b = gen.aircraft_code
-              LEFT JOIN c_seats c_s ON c_s.b = gen.aircraft_code
-              JOIN e_seats e_s ON e_s.b = gen.aircraft_code),
+                  gen.aircraft_code,
+                  gen.total_seats,
+                  b_s.bs bussines_seats,
+                  coalesce(NULLIF(c_s.bs, 0), 0) comfort_seats,
+                  e_s.bs economy_seats,
+                  gen.range
+             FROM gen
+                  JOIN b_seats b_s 
+      	          ON b_s.b = gen.aircraft_code
+      
+                  LEFT JOIN c_seats c_s 
+      		  ON c_s.b = gen.aircraft_code
+      
+                  JOIN e_seats e_s 
+      		  ON e_s.b = gen.aircraft_code),
 
      /* -- end b -- */
 
@@ -90,21 +95,21 @@ WITH a AS -- general flights data
             GROUP BY flight_id)
 
 	  SELECT tf_b.flight_id,
-             bus_seats,
-             coalesce(NULLIF(com_seats, 0), 0) com_seats,
-             eco_seats,
-             bus_amount,
-             coalesce(NULLIF(com_amount, 0), 0) com_amount,
-             eco_amount,
-             total_amount_flight
-        FROM tf_b
-             LEFT JOIN tf_c
+                 bus_seats,
+                 coalesce(NULLIF(com_seats, 0), 0) com_seats,
+                 eco_seats,
+             	 bus_amount,
+             	 coalesce(NULLIF(com_amount, 0), 0) com_amount,
+             	 eco_amount,
+             	 total_amount_flight
+            FROM tf_b
+                 LEFT JOIN tf_c
 	         ON tf_c.flight_id = tf_b.flight_id
 
-             JOIN tf_e
+                 JOIN tf_e
 	         ON tf_e.flight_id = tf_b.flight_id
 
-             JOIN am_sum
+                 JOIN am_sum
 	         ON am_sum.flight_id = tf_b.flight_id),
 
      /* -- end c -- */
@@ -163,13 +168,13 @@ SELECT a.flight_id,
        b.range
   FROM a
        JOIN b
-	   ON a.aircraft_code = b.aircraft_code -- air crafts
+       ON a.aircraft_code = b.aircraft_code -- air crafts
 
        LEFT JOIN c
        ON a.flight_id = c.flight_id -- flights
 
        LEFT JOIN d
-	   ON d.airport_code = a.departure_airport -- airports
+       ON d.airport_code = a.departure_airport -- airports
 
        LEFT JOIN e
-	   ON e.airport_code = a.arrival_airport -- airports
+       ON e.airport_code = a.arrival_airport -- airports
